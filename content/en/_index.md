@@ -1,6 +1,6 @@
 ---
-title: imaging.org.au
-linkTitle: imaging.org.au
+title: data.imaging.org.au
+linkTitle: data.imaging.org.au
 ---
 
 {{< blocks/cover title="Imaging data and tools from NIF" image_anchor="center" height="max" color="dark" >}}
